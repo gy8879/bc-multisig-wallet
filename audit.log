@@ -1,0 +1,2 @@
+time=2025-05-01T17:30:34.766+09:00 level=INFO msg=Configured api=signer "audit log"=audit.log
+time=2025-05-01T17:41:03.294+09:00 level=INFO msg=Configured api=signer "audit log"=audit.log
