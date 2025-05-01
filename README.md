@@ -11,3 +11,8 @@ git add .
 git status
 git commit -m "알아서"
 git push origin {브랜치}
+
+github commit message style
+- feat: 기능 추가 
+- fix: 버그 수정
+- docs: 문서 추가
